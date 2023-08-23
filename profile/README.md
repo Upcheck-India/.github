@@ -1,4 +1,4 @@
-## Hi there, welcome to InnovateXcel 👋
+## 👋 Hi there, Welcome to InnovateXcel
 
 <!--
 
