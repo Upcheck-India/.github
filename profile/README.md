@@ -41,8 +41,9 @@ To transform shrimp aquaculture through technology, making it sustainable, effic
 
 We're grateful to our team and everyone who has contributed to building Upcheck. Your dedication and expertise are shaping the future of aquaculture in India!
 
-=> Robinkumar J
-=> Kiransekar S
-=> Lathikaashri S
-=> Magesh S
-=> Nithishkumar B
+- Robinkumar J
+- Kiransekar S
+- Lathikaashri S
+- Magesh S
+- Nithishkumar B
+### There's more and will be more, contributors are welcome
